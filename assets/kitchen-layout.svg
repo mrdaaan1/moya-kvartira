@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="210 50 700 510" role="img" aria-labelledby="title desc">
+<title id="title">Предварительная схема кухни 11,5 м²</title><desc id="desc">Положение стен и проёмов перенесено с плана квартиры. Вход на нижней стене ближе к левому углу, балкон справа. Холодильник вдоль левой боковой стены, гарнитур сверху, диван напротив. Размеры оценочные.</desc>
+<rect x="210" y="50" width="700" height="510" fill="#f3f0e9"/>
+<path d="M299 110H780V280H806V374H780V469H725V485H266V214H299Z" fill="#fcfbf7"/>
+<path d="M328 485H266V214H299V110H780V280 M806 374H780V469H725V485H432" fill="none" stroke="#344537" stroke-width="6"/>
+<rect x="266" y="110" width="33" height="104" fill="#d9d9ce"/><text x="279" y="163" font-family="sans-serif" font-size="11" text-anchor="middle" transform="rotate(-90 279 163)" fill="#555d52">Выступ</text>
+<g fill="#cbd4c2" stroke="#fcfbf7" stroke-width="2"><rect x="302" y="113" width="77" height="77"/><rect x="379" y="113" width="103" height="77"/><rect x="482" y="113" width="77" height="77"/><rect x="559" y="113" width="77" height="77"/><rect x="636" y="113" width="77" height="77"/></g>
+<g font-family="sans-serif" font-size="13" fill="#2f352f" text-anchor="middle"><text x="341" y="155">Мойка</text><text x="430" y="155">Готовка</text><text x="521" y="149">Панель</text><text x="521" y="168">+ духовка</text><text x="597" y="155">Ящики</text><text x="675" y="146">Шкаф</text><text x="675" y="166">СВЧ выше</text></g>
+<rect x="269" y="245" width="77" height="77" rx="3" fill="#d9bc9c" stroke="#9c6b43"/><path d="M346 247V320" stroke="#344537" stroke-width="4"/><path d="M355 283H402M392 276L402 283L392 290" fill="none" stroke="#9c6b43" stroke-width="2"/>
+<g font-family="sans-serif" fill="#2f352f"><text x="308" y="281" text-anchor="middle" font-size="13">Холод.</text><text x="368" y="310" font-size="12">Фасад →</text></g>
+<path d="M328 485V383M328 383A102 102 0 0 1 430 485" fill="none" stroke="#72766c" stroke-width="1.5"/>
+<rect x="470" y="406" width="220" height="76" rx="10" fill="#cbd4c2" stroke="#7b8b73"/><text x="580" y="440" font-family="sans-serif" font-size="14" fill="#2f352f" text-anchor="middle">Диван ≈170 × 60</text><text x="580" y="461" font-family="sans-serif" font-size="12" fill="#72766c" text-anchor="middle">Напротив гарнитура</text>
+<rect x="510" y="324" width="142" height="77" rx="34" fill="#e4d6c0" stroke="#bba789"/><text x="581" y="368" font-family="sans-serif" font-size="13" fill="#2f352f" text-anchor="middle">Стол ≈110 × 60</text>
+<path d="M302 86H780M302 80V92M780 80V92M245 113V485M239 113H251M239 485H251" stroke="#9c6b43" fill="none"/>
+<g font-family="sans-serif" font-size="14" fill="#2f352f"><text x="540" y="76" text-anchor="middle">Стена с коммуникациями ≈3,7 м</text><text x="234" y="365" transform="rotate(-90 234 365)">Глубина комнаты ≈2,9 м</text><text x="328" y="514">ВХОД ↑</text><text x="810" y="324">БАЛКОН →</text><text x="543" y="247" text-anchor="middle">11,5 м²</text><text x="543" y="269" text-anchor="middle" font-size="12" fill="#72766c">Размеры оценены по пропорциям плана</text><text x="543" y="545" text-anchor="middle" font-size="12" fill="#72766c">Положение проёмов — по исходной схеме. Это не обмерный чертёж.</text></g>
+</svg>
